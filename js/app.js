@@ -26,7 +26,7 @@ canvas.add(img).setActiveObject(img).renderAll();
 reader.readAsDataURL(e.target.files[0]);
 }
 
-fabric.Image.fromURL("img/DIRGAHAYU.png", function (img) {
+fabric.Image.fromURL("img/DIRGAHAYU (3).png", function (img) {
   img.set({
     scaleX: canvas.width / img.width,
     scaleY: canvas.height / img.height,
