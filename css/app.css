@@ -1,0 +1,10 @@
+html, body {
+font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+canvas{
+    border-radius: 10px;
+}
+input[type="file"] {
+display:none;
+}
